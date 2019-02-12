@@ -17,6 +17,6 @@ Results.m   ------>  calculate evaluation by MSE and PSNR.
 
 colorcanny.m /VG_edges.m/ ------>  are other methods for edge detection in color images.
 
-
+ 
 *** Run (surveym.m ) and you will get mask of edges with all these methods and PSNR & MSE for each mask.
 
