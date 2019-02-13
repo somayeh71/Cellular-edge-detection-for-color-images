@@ -11,13 +11,13 @@ Key word: CED (Cellular Edge Detection), color image edge detection, CA (Cellula
 --------------------------------------------------
 
 
-colorCED.m  ------> is our method for  edge detection in color images.
-Results.m   ------>  calculate evaluation by MSE and PSNR.
+colorCED.m  ----------------------------------------------------------------->  our method for  edge detection in color images.
+Results.m   ----------------------------------------------------------------->  calculate evaluation by MSE and PSNR.
 
 (CLA_G_ED_final.m/actionSelector.m/windowMoore.m / windowVonNeumann.m ) ------> are for Cellular edge detection in gray images.
 
-colorcanny.m /VG_edges.m/ ------>  are other methods for edge detection in color images.
+colorcanny.m /VG_edges.m/ ------------------------------------------------->  are other methods for edge detection in color images.
 
  
-*** Run (surveym.m ) and you will get mask of edges with all these methods and PSNR & MSE for each mask.
+*** Run (surveym.m ) ---------------------------------------------------->                                                                                          you will get mask of edges with all these methods and PSNR & MSE for each mask.
 
