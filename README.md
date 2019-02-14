@@ -21,5 +21,5 @@ Results.m   ----------------------------------------------------------------->  
 colorcanny.m /VG_edges.m/ ------------------------------------------------->  are other methods for edge detection in color images.
 
  
-*** Run (surveym.m ) ---------------------------------------------------->                                                                                          you will get mask of edges with all these methods and PSNR & MSE for each mask.
+       *** Run (surveym.m ) -----------> you will get mask of edges with all these methods and PSNR & MSE for each mask.
 
