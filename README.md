@@ -23,3 +23,4 @@ colorcanny.m /VG_edges.m/ ------------------------------------------------->  ar
  
        *** Run (surveym.m ) -----------> you will get mask of edges with all these methods and PSNR & MSE for each mask.
 
+ you can find the results of survey.m in a pdf file here.
