@@ -1,4 +1,9 @@
-# Cellular-edge-detection-for-color-images
+Cellular edge detection for color images
+Somayeh Golmohamadi, Elnaz Ahmadi Shad, Mohammadreza Asghari Oskoei
+Department of computer science
+Allameh Tabatabai university
+Tehran, Iran
+
 
 
 
