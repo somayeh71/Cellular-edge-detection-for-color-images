@@ -1,4 +1,7 @@
-Cellular edge detection for color images
+article:	Cellular edge detection for color images
+
+Iranian national conference on electrical engineering and artificial intelligence. 2019. HN-02010199
+
 Somayeh Golmohamadi, Elnaz Ahmadi Shad, Mohammadreza Asghari Oskoei
 Department of computer science
 Allameh Tabatabai university
